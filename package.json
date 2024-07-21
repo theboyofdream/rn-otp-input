@@ -1,6 +1,6 @@
 {
   "name": "@theboyofdream/rn-otp-input",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "customizeable OTP input for react-native without refs",
   "source": "./src\\index.tsx",
   "main": "./lib/commonjs/index.js",
