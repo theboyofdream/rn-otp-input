@@ -1,11 +1,15 @@
 # @theboyofdream/rn-otp-input
 
-customizeable OTP input for react-native without refs
+Customizeable OTP input for react-native without refs/third-party dependancy.
 
 ## Installation
 
 ```sh
 npm install @theboyofdream/rn-otp-input
+# OR
+yarn add @theboyofdream/rn-otp-input
+# OR
+bun add @theboyofdream/rn-otp-input
 ```
 
 ## Usage
